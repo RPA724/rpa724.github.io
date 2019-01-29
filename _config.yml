@@ -4,7 +4,7 @@ SEOTitle: RPA|Robotic Process Automation solutions
 header-img: img/tag_page.jpg
 email: 
 description: "让RPA机器人流程自动化技术成为您的得力助手"
-keyword: "RPA724, RPA, 猎思，猎思科技，机器人流程自动化"
+keyword: "RPA724, RPA，机器人流程自动化"
 url: "https://rpa724.com"              # your host, for absolute URL
 baseurl: "https://rpa724.com"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -66,7 +66,7 @@ ga_domain: rpa724.com
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "RPA solutions are working for 7 days 24 hours<br>机器人流程自动化方案，让您的企业服务7天24小时在线工作"
+sidebar-about-description: "RPA solutions are working for 7 days 24 hours<br>机器人流程自动化方案，让您的企业服务7天24小时在线工作<br> Email: solutions@mail.rpa724.com"
 sidebar-avatar: /img/mypic.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
