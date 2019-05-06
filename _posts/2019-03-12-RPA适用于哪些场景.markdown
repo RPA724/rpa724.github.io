@@ -7,7 +7,7 @@ author:     "RPA724"
 header-img: ""
 catalog: true
 tags:
-    - Rearch
+    - Research
 ---
 
 # 人力资源
