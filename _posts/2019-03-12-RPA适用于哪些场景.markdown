@@ -3,7 +3,7 @@ layout:     post
 title:      "RPA适用于哪些场景"
 subtitle:   ""
 date:       2019-03-12 12:00:00
-author:     "RPA724"
+author:     "247RPA"
 header-img: ""
 catalog: true
 tags:

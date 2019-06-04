@@ -3,7 +3,7 @@ layout:     post
 title:      "电信业如何利用RPA进行创新？ RPA如何助力电信业数字化转型？"
 subtitle:   " \"RPA应用\""
 date:       2019-04-12 12:00:00
-author:     "RPA724"
+author:     "247RPA"
 header-img: "img/in-post/dianxin_rpa_01.jpg"
 catalog: true
 tags:

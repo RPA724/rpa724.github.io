@@ -3,7 +3,7 @@ layout:     post
 title:      "BPM vs RPA vs Workflow Management"
 subtitle:   " \"商务流程管理与机器人流程自动化与工作流管理的对比\""
 date:       2019-01-23 12:00:00
-author:     "RPA724"
+author:     "247RPA"
 header-img: "img/in-post/.png"
 catalog: true
 tags:
