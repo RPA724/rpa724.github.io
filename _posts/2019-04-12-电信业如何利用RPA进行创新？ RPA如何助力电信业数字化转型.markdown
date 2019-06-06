@@ -4,13 +4,13 @@ title:      "电信业如何利用RPA进行创新？ RPA如何助力电信业数
 subtitle:   " \"RPA应用\""
 date:       2019-04-12 12:00:00
 author:     "247RPA"
-header-img: "img/in-post/dianxin_rpa_01.jpg"
+header-img: "img/in-post/"
 catalog: true
 tags:
     - RPA应用
 ---
 
->>本文转载于网络，有涉及版权问题请与我联系
+>本文转载于网络，有涉及版权问题请与我联系
 
 互联网时代，传统电信运营商不转型就没有前途已成为业界共识。特别是，伴随5G时代的来临，AR/VR等新数据流的出现，无论是运营商还是服务商，甚至是电子厂商，各方都在摩拳擦掌，跃跃欲试。行业竞争将愈演愈烈。
 
