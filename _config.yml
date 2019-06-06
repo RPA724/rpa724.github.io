@@ -67,7 +67,7 @@ ga_domain: 247rpa.com
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "RPA solutions are working for 7 days 24 hours<br>机器人流程自动化方案，让您的企业服务7天24小时在线工作<br> Email: solutions@mail.247rpa.com"
-sidebar-avatar: /img/247RPA1.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/247RPA3.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
