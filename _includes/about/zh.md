@@ -2,7 +2,7 @@
 
 我们是247RPA的自动化团队，我们非常热衷于与那些准备学习了解这项技术的你们一起分享我们的方案。
 
-欢迎联系我们： solutions@mail.247rpa.com
+欢迎联系我们： support@iaworker.com
 
 
 
